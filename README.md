@@ -1,4 +1,4 @@
-# 👋 Fala aí! Eu sou o Pedro Henrique  
+# 👋 Pedro Henrique aqui!
 
 🎓 Estudante de **Engenharia de Software**  
 💻 Interessado em **tecnologia, dados e desenvolvimento de software**  
@@ -39,5 +39,3 @@ Tô sempre em busca de aprender novas ferramentas e melhorar minhas habilidades 
 💼 **LinkedIn:** [https://www.linkedin.com/in/pedro-henrique-sardinha-vieira-373203356/] 
 
 ---
-
-⭐ *“Aprender é um processo contínuo — o código de hoje é o aprendizado de amanhã.”*
