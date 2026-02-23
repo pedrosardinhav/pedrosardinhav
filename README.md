@@ -14,7 +14,7 @@ Software Engineering student building projects.
 
 Connect With Me
 
-LinkedIn  -> <a href="https://www.linkedin.com/in/pedro-henrique-sardinha-vieira/">https://www.linkedin.com/in/pedro-henrique-sardinha-vieira/</a>
+LinkedIn  -> <a href="https://www.linkedin.com/in/pedrosardinhav/">https://www.linkedin.com/in/pedrosardinhav//</a>
 Email     -> <a href="mailto:pedrosvfb@gmail.com">pedrosvfb@gmail.com</a>
 
 
