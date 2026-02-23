@@ -1,8 +1,7 @@
-```
-pedrosardinhav / README.md
+<pre>
 
 
-PEDRO SARDINHA
+PEDRO SARDINHA :)
 ==============
 
 
@@ -15,8 +14,8 @@ Software Engineering student building projects.
 
 Connect With Me
 
-• LinkedIn  - https://www.linkedin.com/in/pedro-henrique-sardinha-vieira/
-• Email     - pedrosvfb@gmail.com
+LinkedIn  -> <a href="https://www.linkedin.com/in/pedro-henrique-sardinha-vieira/">https://www.linkedin.com/in/pedro-henrique-sardinha-vieira/</a>
+Email     -> <a href="mailto:pedrosvfb@gmail.com">pedrosvfb@gmail.com</a>
 
 
 ----------------------------------------
@@ -47,4 +46,4 @@ Check my projects down below.
 
 
 Building today what I want to master tomorrow.
-```
+</pre>
