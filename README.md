@@ -1,36 +1,36 @@
-# Hi there! 👋  
+# PEDRO SARDINHA
+======================
 
----
+Love turning ideas into working systems.
+Software Engineering student building projects.
 
-I'm **Pedro Henrique** welcome to my page!
+-----------------------------------------
 
-🎓 I'm currently studying **Software Engineering** at USJT.  
-💡 Working to became a **Back-End Developer.**  
-☕ Currently learning **Java!** 
+## Connect With Me
 
----
+• LinkedIn       - https://www.linkedin.com/in/pedro-henrique-sardinha-vieira/
+• Email          - pedrosvfb@gmail.com
 
-## 🧰 Tools and Languages  
+-----------------------------------------
 
+## Skills & Tools
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="35" />
-</p>
+### Backend
+Java, Spring Boot, Node.js, Express, Python
 
----
+### Frontend
+React, JavaScript, HTML5, CSS3
 
-## 🌐 Connect with Me  
+### Database
+PostgreSQL, MySQL, SQL
 
-📧 **Email:** pedrosvfb@gmai.com  
-💼 **LinkedIn:** [Pedro Henrique Sardinha Vieira](https://www.linkedin.com/in/pedro-henrique-sardinha-vieira-373203356/)  
+### Dev & Tools
+Git, GitHub, Linux, Postman
 
----
+-----------------------------------------
 
+Check my projects down below 👇
+
+-----------------------------------------
+
+> Building today what I want to master tomorrow.
